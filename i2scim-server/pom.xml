@@ -36,7 +36,7 @@
         <dependency>
             <groupId>com.independentid</groupId>
             <artifactId>i2scim-core</artifactId>
-            <version>0.6.0-Alpha</version>
+            <version>0.6.1</version>
         </dependency>
 
     </dependencies>
