@@ -35,7 +35,7 @@
         <dependency>
             <groupId>com.independentid</groupId>
             <artifactId>i2scim-core</artifactId>
-            <version>0.6.0-Alpha</version>
+            <version>0.6.1</version>
         </dependency>
         <dependency>
             <groupId>com.independentid</groupId>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>com.independentid</groupId>
             <artifactId>i2scim-prov-mongo</artifactId>
-            <version>0.6.0-Alpha</version>
+            <version>0.6.1</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
